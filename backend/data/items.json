@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Lenovo",
+    "serialNumber": "LEN-001",
+    "value": 3500,
+    "category": "Electronice",
+    "purchaseDate": "2026-11-01"
+  }
+]
